@@ -1,0 +1,12 @@
+{
+  "name": "jorngirl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "nezbednik",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "irc-framework": "^4.12.1"
+  }
+}

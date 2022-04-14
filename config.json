@@ -1,0 +1,9 @@
+ {
+    "token": "Discord bot token goes here",
+    "channel_id": "Discord channel ID goes here",
+    "account": "IRC name goes here",
+    "password": "IRC password goes here",
+    "server": "irc.libera.chat",
+    "port": 6667,
+    "channel": "#libera"
+}
